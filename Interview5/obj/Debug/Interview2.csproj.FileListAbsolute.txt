@@ -1,0 +1,7 @@
+C:\Users\ltantal\OneDrive - Genetec Inc\Desktop\Questions\Interview5\bin\Debug\Interview2.exe.config
+C:\Users\ltantal\OneDrive - Genetec Inc\Desktop\Questions\Interview5\bin\Debug\Interview2.exe
+C:\Users\ltantal\OneDrive - Genetec Inc\Desktop\Questions\Interview5\bin\Debug\Interview2.pdb
+C:\Users\ltantal\OneDrive - Genetec Inc\Desktop\Questions\Interview5\obj\Debug\Interview2.csproj.AssemblyReference.cache
+C:\Users\ltantal\OneDrive - Genetec Inc\Desktop\Questions\Interview5\obj\Debug\Interview2.csproj.CoreCompileInputs.cache
+C:\Users\ltantal\OneDrive - Genetec Inc\Desktop\Questions\Interview5\obj\Debug\Interview2.exe
+C:\Users\ltantal\OneDrive - Genetec Inc\Desktop\Questions\Interview5\obj\Debug\Interview2.pdb

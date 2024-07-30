@@ -1,0 +1,14 @@
+C:\Users\ltantal\OneDrive - Genetec Inc\Desktop\Questions\Interview3\bin\Debug\Interview4.exe.config
+C:\Users\ltantal\OneDrive - Genetec Inc\Desktop\Questions\Interview3\bin\Debug\Interview4.exe
+C:\Users\ltantal\OneDrive - Genetec Inc\Desktop\Questions\Interview3\bin\Debug\Interview4.pdb
+C:\Users\ltantal\OneDrive - Genetec Inc\Desktop\Questions\Interview3\obj\Debug\Interview4.csproj.AssemblyReference.cache
+C:\Users\ltantal\OneDrive - Genetec Inc\Desktop\Questions\Interview3\obj\Debug\Interview4.csproj.CoreCompileInputs.cache
+C:\Users\ltantal\OneDrive - Genetec Inc\Desktop\Questions\Interview3\obj\Debug\Interview4.exe
+C:\Users\ltantal\OneDrive - Genetec Inc\Desktop\Questions\Interview3\obj\Debug\Interview4.pdb
+C:\Users\ltantal\OneDrive - Genetec Inc\Documents\Technical Interviews\Practical Questions\Interview3\bin\Debug\Interview4.exe.config
+C:\Users\ltantal\OneDrive - Genetec Inc\Documents\Technical Interviews\Practical Questions\Interview3\bin\Debug\Interview4.exe
+C:\Users\ltantal\OneDrive - Genetec Inc\Documents\Technical Interviews\Practical Questions\Interview3\bin\Debug\Interview4.pdb
+C:\Users\ltantal\OneDrive - Genetec Inc\Documents\Technical Interviews\Practical Questions\Interview3\obj\Debug\Interview4.csproj.AssemblyReference.cache
+C:\Users\ltantal\OneDrive - Genetec Inc\Documents\Technical Interviews\Practical Questions\Interview3\obj\Debug\Interview4.csproj.CoreCompileInputs.cache
+C:\Users\ltantal\OneDrive - Genetec Inc\Documents\Technical Interviews\Practical Questions\Interview3\obj\Debug\Interview4.exe
+C:\Users\ltantal\OneDrive - Genetec Inc\Documents\Technical Interviews\Practical Questions\Interview3\obj\Debug\Interview4.pdb
